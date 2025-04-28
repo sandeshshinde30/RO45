@@ -1,3 +1,4 @@
+// Write a program to use fork system call to create 5 child processes and assign 5 operations to childs.
 #include <stdio.h>
 #include <unistd.h>
 // #include <sys/types.h>
