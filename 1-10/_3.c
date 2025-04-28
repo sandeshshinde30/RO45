@@ -1,3 +1,5 @@
+// Write a program to open any application using fork sysem call.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
